@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1607033389 source:c:\users\hp\desktop\computer programming\shafa\modulo1.c
+	"Modulo1.h"
+
+1607033389 c:\users\hp\desktop\computer programming\shafa\modulo1.h
+
+1609690355 source:c:\users\hp\desktop\computer programming\shafa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ModuloA.h"
+	"ModuloD.h"
+
+1609690757 source:c:\users\hp\desktop\computer programming\shafa\moduloa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"ModuloA.h"
+	"fsize.h"
+
+1608491726 c:\users\hp\desktop\computer programming\shafa\moduloa.h
+
+1607366952 c:\users\hp\desktop\computer programming\shafa\fsize.h
+
+1609679788 source:c:\users\hp\desktop\computer programming\shafa\modulob.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"ModuloB.h"
+	"ModuloA.h"
+
+1609330049 c:\users\hp\desktop\computer programming\shafa\modulob.h
+
+1609623303 source:c:\users\hp\desktop\computer programming\shafa\moduloc.c
+	"ModuloC.h"
+	"ModuloB.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1609542248 c:\users\hp\desktop\computer programming\shafa\moduloc.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"ModuloB.h"
+	"ModuloA.h"
+
+1609690693 source:c:\users\hp\desktop\computer programming\shafa\modulod.c
+	"ModuloD.h"
+	"ModuloB.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1609626252 c:\users\hp\desktop\computer programming\shafa\modulod.h
+	"ModuloB.h"
+
